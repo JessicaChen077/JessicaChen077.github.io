@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: WANGLAB # Website name
-baseURL: "https://flora.github.io/" # Website URL
+baseURL: "https://jessicachen077.github.io/"
+canonifyURLs: true
 
 ############################
 ## LANGUAGE
