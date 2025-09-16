@@ -3,10 +3,12 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -16,12 +18,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          submodules: false
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.124.1'
           extended: true
       - name: Build
         run: hugo --minify
+      # 关键：显式配置 Pages
+      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
