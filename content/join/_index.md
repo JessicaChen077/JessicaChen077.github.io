@@ -1,7 +1,5 @@
 ---
-# Documentation: https://docs.hugoblox.com/managing-content/
-
-title: "Join"
+title: "Join us"
 subtitle: ""
 summary: ""
 authors: []
@@ -12,18 +10,22 @@ lastmod: 2025-09-16T14:39:35+08:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
+
+  We welcome **undergraduate and graduate students** passionate about bioinformatics, clinical epidemiology, neuroscience, and neuropsychiatry to join our dynamic research team.
+
+
+
+  We welcome collaborative partnerships with industry leaders in clinical neurology and psychiatry, drug discovery and development, and precision medicine applications.
+
+
+
+**Contact:** [yq@sdu.edu.cn](yq@sdu.edu.cn) for opportunities and collaborations.
+
+**Address:** Wen Hua Xi Lu, #44, Shandong University
