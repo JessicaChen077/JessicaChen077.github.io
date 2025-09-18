@@ -11,7 +11,7 @@ main:
     url: post
     weight: 20
   - name: People
-    url: authors      # starter 默认的“人员”目录叫 authors
+    url: people      # starter 默认的“人员”目录叫 authors
     weight: 30
   - name: Research
     url: research
