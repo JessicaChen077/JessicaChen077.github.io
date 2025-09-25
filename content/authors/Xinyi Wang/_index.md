@@ -23,6 +23,6 @@ draft: false
   *Peking University*
 
 ## Publications
--  **X Wang**, R Xiu, L Gong, W Sun, Y Dong, W Liu, X Liu, C Liu, J Li, Y Wang. Unraveling the global burden of inflammatory bowel disease (1990–2019): A Joinpoint regression analysis of divergent trends in 10–24 and 50–69 age cohorts. Autoimmunity Reviews, 103586. 30 July, 2024
+-  **Wang, X.**, Xiu, R., Gong, L., Sun, W., Dong, Y., Liu, W., Liu, X., Liu, C., Li, J., & Wang, Y. (2024). Unraveling the global burden of inflammatory bowel disease (1990-2019): A Joinpoint regression analysis of divergent trends in 10-24 and 50-69 age cohorts. Autoimmun Rev, 23(6), 103586. https://doi.org/10.1016/j.autrev.2024.103586 
 
 

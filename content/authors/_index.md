@@ -5,6 +5,10 @@
 user_groups:
   - Principal Investigator
   - Graduate Students
-  - Undergraduate Students
+  - Undergraduate Students admitted in 2021
+  - Undergraduate Students admitted in 2022
+  - Undergraduate Students admitted in 2023
+  - Undergraduate Students admitted in 2024
+  - Visiting Undergraduate Students
   - Alumni
 ---
