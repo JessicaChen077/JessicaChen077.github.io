@@ -29,6 +29,7 @@ type: page
 - [Yuanyao Cao](/author/yuanyao-cao/)
 - [Ruo Wu](/author/ruo-wu/)
 - [Yuanyuan Xia](/author/yuanyuan-xia/)
+- [Hanyu Shang](/author/hanyu-shang/)
 
 ## Undergraduates admitted in 2023
 - [Kun Zhang](/author/kun-zhang/)

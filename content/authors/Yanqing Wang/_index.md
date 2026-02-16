@@ -1,70 +1,48 @@
 ---
-# ======== 基本信息 ========
-title: "Yanqing Wang"        # 显示姓名
-first_name: "Yanqing"
-last_name: "Wang"
-role: "Principal Investigator"  # 也可以写 "Associate Professor"
-superuser: false                 # 若这是网站主账号则 true，否则 false
-
-# 所属机构
-organizations:
-  - name: "Shandong University"
-    url: ""
-
-# 左侧头像（把头像文件放在同目录，命名 avatar.jpg 或改成你的文件名）
-avatar: "avatar.jpg"
-
-# People 分组（用于 People 页面分块）
+title: "Yanqing Wang"
 user_groups: ["Principal Investigator"]
 weight: 1
+avatar: "avatar.jpg"
 
-# 简短介绍（会出现在一些列表位置）
-bio: "Research on genomic variation, statistical genetics, and precision medicine."
-
-# 社交/学术链接（按需删减）
 social:
   #- icon: envelope
     #icon_pack: fas
-    #link: "mailto:your_email@domain.com"
-  #- icon: google-scholar
-    #icon_pack: ai
-    #link: "https://scholar.google.com/citations?user=XXXXXX"
-  #- icon: github
-    #icon_pack: fab
-    #link: "https://github.com/yourid"
-  #- icon: linkedin
-    #icon_pack: fab
-    #link: "https://www.linkedin.com/in/yourid/"
+    #link: "sunqingyuansdu@163.com"
 
-# ======== 研究方向（会在页面中展示为列表） ========
-interests:
-  - "Genomic variation & population health"
-  - "Statistical genetics & risk prediction"
-  - "Neurology and Psychiatry genomics"
-  - "Multi-omics integration"
+# （可留空或写一句简介）
+bio: ""
 
-
-# （可选）简历下载：把文件放到 static/files/cv.pdf 然后解注释
-# links:
-#   - icon: cv
-#     icon_pack: ai
-#     name: "CV"
-#     url: "files/cv.pdf"
-
-# 页面控制
-highlight_name: false
 draft: false
 ---
 
-## Research
+## Work Experience
+
+- **2021–Present** · **Associate Professor**  
+  Shandong University
+
+- **2015–2021** · **Postdoctoral Fellow**  
+  Icahn School of Medicine at Mount Sinai
+
+## Education
+
+- **2015 · Ph.D., Neuroscience**  
+University of South Dakota
+
+- **2010 · M.Sc., Public Health**  
+  Hong Kong Baptist University
+
+- **2008 · MBBS, Clinical Medicine**  
+  Shandong University
 
 
 ## Grants 
-- **2022–2025** · National Natural Science Foundation of China (PI).
 - **2025–2028** · Shandong National Natural Science Foundation (PI).
+- **2022–2025** · National Natural Science Foundation of China (PI).
 
 
 ## Contact
 - Email: [yq@sdu.edu.cn](yq@sdu.edu.cn)
+
+
 
 
