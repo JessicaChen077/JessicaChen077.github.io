@@ -3,7 +3,7 @@ title: "Rongxia Tai"
 #role: "Alumni"
 user_groups: ["Alumni"]
 weight: 8
-avatar: "avatar.jpg"
+#avatar: "avatar.jpg"
 
 social:
   #- icon: envelope
