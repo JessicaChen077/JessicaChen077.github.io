@@ -20,7 +20,7 @@ draft: false
 - **2021–Present** · **Associate Professor**  
   Shandong University
 
-- **2015–2021** · **Postdoctoral Fellow**  
+- **2016–2021** · **Postdoctoral Fellow**  
   Icahn School of Medicine at Mount Sinai
 
 ## Education
