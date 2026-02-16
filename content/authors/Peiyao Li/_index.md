@@ -1,0 +1,20 @@
+---
+title: "Peiyao Li"
+user_groups: ["Undergraduates admitted in 2024"]
+weight: 4
+avatar: "avatar.jpeg"
+
+social:
+  #- icon: envelope
+    #icon_pack: fas
+    #link: "m19854230267@163.com"
+
+# （可留空或写一句简介）
+bio: ""
+
+draft: false
+---
+
+## Education
+- **MBBS**, 2024 – present  
+  *Shandong University*

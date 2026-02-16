@@ -20,6 +20,7 @@ type: page
 - [Manyu Ma](/author/manyu-ma/)
 - [Zihui Xu](/author/zihui-xu/)
 - [Junchi Hu](/author/junchi-hu/)
+- [Yuxuan Zhang](/author/yuxuan-zhang/)
 
 ## Undergraduates admitted in 2022
 - [Liangchun Wang](/author/liangchun-wang/)
@@ -27,6 +28,7 @@ type: page
 - [Xin Li](/author/xin-li/)
 - [Yuanyao Cao](/author/yuanyao-cao/)
 - [Ruo Wu](/author/ruo-wu/)
+- [Yuanyuan Xia](/author/yuanyuan-xia/)
 
 ## Undergraduates admitted in 2023
 - [Kun Zhang](/author/kun-zhang/)
@@ -38,17 +40,21 @@ type: page
 - [Fanzheng Meng](/author/fanzhen-meng/)
 - [Xiyue Su](/author/xiyue-su/)
 - [Chenyu Li](/author/chenyu-li/)
-- [Yuhan Zhang](/author/yuhan-zhang/)
+- [Yuhang Zhang](/author/yuhang-zhang/)
 - [Shanjie Luan](/author/shanjie-luan/)
 - [Qunshu Wang](/author/qunshu-wang/)
+- [Kehao Wang](/author/kehao-wang/)
 
 ## Undergraduates admitted in 2024
 - [Zihan Gao](/author/zihan-gao/)
+- [Yufei Jin](/author/yufei-jin/)
+- [Xinchang Cui](/author/xinchang-cui/)
+- [Peiyao Li](/author/peiyao-li/)
+- [Xintong Liu](/author/xintong-liu/)
 
 ## Visiting Undergraduates Students
 - [Kang Li](/author/kang-li/)
-- [Yuxuan Zhang](/author/yuxuan-zhang/)
-- [Yuxuan](/author/li-ming/)
+- [Xinyang Xiang](/author/xinyang-xiang/)
 - [Qinyi Wu](/author/qinyi-wu/)
 - [Lixuan Zhu](/author/lixuan-zhu/)
 
@@ -60,3 +66,4 @@ type: page
 - [Tilai Zhang](/author/tilai-zhang/)
 - [Menggeer Wang](/author/menggeer-wang/)
 - [Linjing Zhang](/author/linjing-zhang/)
+- [Rongxia Tai](/author/rongxia-tai/)
