@@ -2,7 +2,7 @@
 title: "Rongxia Tai"
 #role: "Alumni"
 user_groups: ["Alumni"]
-weight: 7
+weight: 8
 avatar: "avatar.jpg"
 
 social:
