@@ -1,5 +1,5 @@
 ---
-title: "Xinchang Cui"
+title: "Xichang Cui"
 user_groups: ["Undergraduates admitted in 2024"]
 weight: 3
 avatar: "avatar.jpeg"
