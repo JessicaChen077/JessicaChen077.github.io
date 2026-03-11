@@ -49,7 +49,7 @@ type: page
 ## Undergraduates admitted in 2024
 - [Zihan Gao](/author/zihan-gao/)
 - [Yufei Jin](/author/yufei-jin/)
-- [Xinchang Cui](/author/xinchang-cui/)
+- [Xichang Cui](/author/xinchang-cui/)
 - [Peiyao Li](/author/peiyao-li/)
 - [Xintong Liu](/author/xintong-liu/)
 
