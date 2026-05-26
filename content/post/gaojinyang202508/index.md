@@ -3,6 +3,7 @@ title: "Congratulations to Jinyang Gao for the new paper just published!"
 date: 2025-08-31
 draft: false
 author: "WANG LAB"
+categories: ["Publications"]
 tags: ["publication", "news"]
 ---
 
@@ -10,4 +11,3 @@ tags: ["publication", "news"]
 
 Check out the article on PubMed:  
 [https://pubmed.ncbi.nlm.nih.gov/40820167/](https://pubmed.ncbi.nlm.nih.gov/40820167/)
-
