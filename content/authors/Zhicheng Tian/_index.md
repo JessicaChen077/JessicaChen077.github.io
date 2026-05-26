@@ -1,5 +1,5 @@
 ---
-title: "Hanyu Shang"
+title: "Zhicheng Tian"
 user_groups: ["Visiting Undergraduate Students"]
 weight: 1
 avatar: "avatar.jpeg"
@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Education
-- **MBBS**, 2022 – present  
+- **MBBS**, 2022 – present
   *Shandong University*
 ## Publications
 

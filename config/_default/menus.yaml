@@ -22,6 +22,9 @@ main:
   - name: Alumni
     url: alumni
     weight: 60
+  - name: Visiting Students
+    url: visiting-students
+    weight: 70
   - name: Join/Contact
     url: join
-    weight: 70
+    weight: 80

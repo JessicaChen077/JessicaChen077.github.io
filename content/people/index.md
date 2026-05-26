@@ -29,7 +29,6 @@ type: page
 - [Yuanyao Cao](/author/yuanyao-cao/)
 - [Ruo Wu](/author/ruo-wu/)
 - [Yuanyuan Xia](/author/yuanyuan-xia/)
-- [Hanyu Shang](/author/hanyu-shang/)
 
 ## Undergraduates admitted in 2023
 - [Kun Zhang](/author/kun-zhang/)
@@ -52,9 +51,3 @@ type: page
 - [Xichang Cui](/author/xichang-cui/)
 - [Peiyao Li](/author/peiyao-li/)
 - [Xintong Liu](/author/xintong-liu/)
-
-## Visiting Undergraduates Students
-- [Kang Li](/author/kang-li/)
-- [Xinyang Xiang](/author/xinyang-xiang/)
-- [Qinyi Wu](/author/qinyi-wu/)
-- [Lixuan Zhu](/author/lixuan-zhu/)
