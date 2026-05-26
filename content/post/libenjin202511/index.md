@@ -5,6 +5,8 @@ draft: false
 author: "WANG LAB"
 categories: ["Publications"]
 tags: ["publication", "news"]
+image:
+  filename: avatar.jpeg
 ---
 
 {{< figure src="avatar.jpeg" alt="Our team celebrating" width="200" >}}

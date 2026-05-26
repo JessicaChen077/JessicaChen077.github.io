@@ -1,8 +1,6 @@
 {{- define "main" -}}
 
-{{ partial "page_header.html" . }}
-
-<div class="universal-wrapper">
+<div class="universal-wrapper news-sections-wrapper">
   {{ with .Content }}
     <div class="article-style">{{ . }}</div>
   {{ end }}
@@ -21,10 +19,20 @@
       <section class="news-section-card">
         <h2>{{ $section.title }}</h2>
         {{ with index $items 0 }}
+          {{ $post := . }}
+          {{ $image := "" }}
+          {{ with .Params.image.filename }}
+            {{ $image = printf "%s%s" $post.RelPermalink . }}
+          {{ end }}
+          {{ with $image }}
+            <a class="news-section-image-link" href="{{ $post.RelPermalink }}">
+              <img class="news-section-image" src="{{ . }}" alt="{{ $post.Title }}">
+            </a>
+          {{ end }}
           <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
           <div class="article-metadata">{{ .Date.Format "Jan 2, 2006" }}</div>
           {{ with .Summary }}
-            <p>{{ . | plainify | truncate 140 }}</p>
+            <p>{{ . | plainify | truncate 180 }}</p>
           {{ end }}
         {{ else }}
           <p class="news-section-empty">{{ $section.empty }}</p>
