@@ -3,7 +3,7 @@ title: Alumni
 type: page
 ---
 
-## Alumni
+## Undergraduates admitted in 2020
 - [Qingyuan Sun](/author/qingyuan-sun/)
 - [Ran an](/author/ran-an/)
 - [Ruipu Xiu](/author/ruipu-xiu/)
@@ -11,4 +11,6 @@ type: page
 - [Tilai Zhang](/author/tilai-zhang/)
 - [Menggeer Wang](/author/menggeer-wang/)
 - [Linjing Zhang](/author/linjing-zhang/)
+
+## Master's Students
 - [Rongxia Tai](/author/rongxia-tai/)

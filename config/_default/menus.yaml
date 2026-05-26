@@ -10,17 +10,17 @@ main:
   - name: News/Events
     url: post
     weight: 20
-  - name: People
-    url: people      # starter 默认的“人员”目录叫 authors
-    weight: 30
-  - name: Alumni
-    url: alumni
-    weight: 40
   - name: Research
     url: research
-    weight: 50
+    weight: 30
   - name: Publications
     url: publication
+    weight: 40
+  - name: People
+    url: people      # starter 默认的“人员”目录叫 authors
+    weight: 50
+  - name: Alumni
+    url: alumni
     weight: 60
   - name: Join/Contact
     url: join
