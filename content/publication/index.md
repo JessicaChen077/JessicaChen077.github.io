@@ -1,6 +1,4 @@
-## Publications since 2023
-
-<div class="pub-list">
+### 2025
 
 1. Guo, L., Zhang, J., An, R., Wang, W., Fen, J., Wu, Y., & **Wang, Y.** (2025). The role of estimated glucose disposal rate in predicting cardiovascular risk among general and diabetes mellitus population: A systematic review and meta-analysis. *BMC Medicine*, 23(1), 234. [https://doi.org/10.1186/s12916-025-04064-4](https://doi.org/10.1186/s12916-025-04064-4)
 
@@ -24,12 +22,16 @@
 
 11. Guo, H., Zhao, X., Han, K., & **Wang, Y.** (2025). Mapping the lung–brain axis: Causal relationships between brain network connectivity and respiratory disorders. *Brain Research Bulletin*, 111402. [https://doi.org/10.1016/j.brainresbull.2025.111402](https://doi.org/10.1016/j.brainresbull.2025.111402)
 
-12. Wang, X., Xiu, R., Gong, L., Sun, W., Dong, Y., Liu, W., … **Wang, Y.** (2024). Unraveling the global burden of inflammatory bowel disease (1990–2019): A Joinpoint regression analysis of divergent trends in 10–24 and 50–69 age cohorts. *Autoimmunity Reviews*, 23(6), 103586. [https://doi.org/10.1016/j.autrev.2024.103586](https://doi.org/10.1016/j.autrev.2024.103586)
+### 2024
 
-13. Guo, H., Li, Z., & **Wang, Y.** (2024). BCL3, GBP1, IFI16, and CCR1 as potential brain-derived biomarkers for parietal grey matter lesions in multiple sclerosis. *Scientific Reports*, 14(1), 28543. [https://doi.org/10.1038/s41598-024-76949-y](https://doi.org/10.1038/s41598-024-76949-y)
+1. Wang, X., Xiu, R., Gong, L., Sun, W., Dong, Y., Liu, W., … **Wang, Y.** (2024). Unraveling the global burden of inflammatory bowel disease (1990–2019): A Joinpoint regression analysis of divergent trends in 10–24 and 50–69 age cohorts. *Autoimmunity Reviews*, 23(6), 103586. [https://doi.org/10.1016/j.autrev.2024.103586](https://doi.org/10.1016/j.autrev.2024.103586)
 
-14. Sun, Q., Gao, J., An, R., Wang, M., & **Wang, Y.** (2024). Probing molecular pathways: Illuminating the connection between COVID-19 and Alzheimer’s disease through the endocannabinoid system dynamics. *Journal of Medical Virology*, 96(4), e29590. [https://doi.org/10.1002/jmv.29590](https://doi.org/10.1002/jmv.29590)
+2. Guo, H., Li, Z., & **Wang, Y.** (2024). BCL3, GBP1, IFI16, and CCR1 as potential brain-derived biomarkers for parietal grey matter lesions in multiple sclerosis. *Scientific Reports*, 14(1), 28543. [https://doi.org/10.1038/s41598-024-76949-y](https://doi.org/10.1038/s41598-024-76949-y)
 
-15. Xiu, R., Sun, Q., Li, B., & **Wang, Y.** (2023). Mapping research trends and hotspots in the link between Alzheimer’s disease and gut microbes over the past decade: A bibliometric analysis. *Nutrients*, 15(14), 3203. [https://doi.org/10.3390/nu15143203](https://doi.org/10.3390/nu15143203)
+3. Sun, Q., Gao, J., An, R., Wang, M., & **Wang, Y.** (2024). Probing molecular pathways: Illuminating the connection between COVID-19 and Alzheimer’s disease through the endocannabinoid system dynamics. *Journal of Medical Virology*, 96(4), e29590. [https://doi.org/10.1002/jmv.29590](https://doi.org/10.1002/jmv.29590)
 
-16. Sun, Q., An, R., Li, J., Liu, C., Wang, M., Wang, C., & **Wang, Y.** (2023). The role of CXCL8 and CCNB1 in predicting hepatocellular carcinoma in the context of cirrhosis: Implications for early detection and immune-based therapies. *Journal of Cancer Research and Clinical Oncology*, 149(13), 11471–11489. [https://doi.org/10.1007/s00432-023-05004-6](https://doi.org/10.1007/s00432-023-05004-6)
+### 2023
+
+1. Xiu, R., Sun, Q., Li, B., & **Wang, Y.** (2023). Mapping research trends and hotspots in the link between Alzheimer’s disease and gut microbes over the past decade: A bibliometric analysis. *Nutrients*, 15(14), 3203. [https://doi.org/10.3390/nu15143203](https://doi.org/10.3390/nu15143203)
+
+2. Sun, Q., An, R., Li, J., Liu, C., Wang, M., Wang, C., & **Wang, Y.** (2023). The role of CXCL8 and CCNB1 in predicting hepatocellular carcinoma in the context of cirrhosis: Implications for early detection and immune-based therapies. *Journal of Cancer Research and Clinical Oncology*, 149(13), 11471–11489. [https://doi.org/10.1007/s00432-023-05004-6](https://doi.org/10.1007/s00432-023-05004-6)
