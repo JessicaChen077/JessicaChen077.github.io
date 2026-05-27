@@ -82,6 +82,10 @@
   transform: translateY(-1px);
 }
 
+#section-collection .view-card .article-style figure {
+  display: none;
+}
+
 @media (max-width: 767px) {
   .news-section-grid {
     grid-template-columns: 1fr;
