@@ -19,6 +19,5 @@ draft: false
 - **MBBS**, 2021 – present  
   *Shandong University*
 ## Publications
-- **Xu, Z.**, Ma, M., An, R., & Wang, Y. (2025). Association between brain connectivity and renal pathophysiology: A multi-trait Mendelian randomization analysis. Brain Structure and Function, 230(8), 151. https://doi.org/10.1007/s00429-025-03014-3
-
+- **Xu, Z.**, Ma, M., An, R., & **Wang, Y.** (2025). Association between brain connectivity and renal pathophysiology: A multi-trait Mendelian randomization analysis. *Brain Structure and Function*, 230(8), 151. [https://doi.org/10.1007/s00429-025-03014-3](https://doi.org/10.1007/s00429-025-03014-3) (2024 JIF: 2.9; JCR Q1/Q3)
 

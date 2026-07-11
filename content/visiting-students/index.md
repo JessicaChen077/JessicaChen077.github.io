@@ -7,6 +7,7 @@ type: page
 - [Kang Li](/author/kang-li/)
 - [Xinyang Xiang](/author/xinyang-xiang/)
 - [Qinyi Wu](/author/qinyi-wu/)
+- [Yonghang Xu](/author/yonghang-xu/)
 - [Lixuan Zhu](/author/lixuan-zhu/)
 - [Hanyu Shang](/author/hanyu-shang/)
 - [Zhicheng Tian](/author/zhicheng-tian/)

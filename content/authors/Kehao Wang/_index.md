@@ -19,4 +19,4 @@ draft: false
 - **MBBS**, 2023 – present  
   *Shandong University*
 ## Publications
-
+- **Wang, K.**, Han, K., & **Wang, Y.** (2026). Antigen-specific adaptive immunity in Parkinson’s disease: Peripheral priming, brain-border reactivation and parenchymal injury. *Journal of Neuroinflammation*. [https://doi.org/10.1186/s12974-026-03918-9](https://doi.org/10.1186/s12974-026-03918-9) (2025 JIF: 11.5; JCR Q1)

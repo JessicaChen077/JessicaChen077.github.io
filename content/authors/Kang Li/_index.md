@@ -19,4 +19,4 @@ draft: false
 - **MBBS**, 2021 – present  
   *Shandong University*
 ## Publications
-- **Li, K.**, Tang, H., Wang, Y., & Wang, X. (2025). Identification of hub genes involved in the pathogenesis of diabetic nephropathy: A multi-omics study integrating machine learning, Mendelian randomization and mediation analysis. *Diabetes, Obesity and Metabolism*. https://doi.org/10.1111/dom.16536
+- **Li, K.**, Tang, H., **Wang, Y.**, & Wang, X. (2025). Identification of hub genes involved in the pathogenesis of diabetic nephropathy: A multi-omics study integrating machine learning, Mendelian randomization and mediation analysis. *Diabetes, Obesity and Metabolism*. [https://doi.org/10.1111/dom.16536](https://doi.org/10.1111/dom.16536) (2024 JIF: 5.7; JCR Q1)

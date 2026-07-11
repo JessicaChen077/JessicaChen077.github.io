@@ -23,7 +23,6 @@ draft: false
   *Fuwai Hospital*
 
 ## Publications
--  Wang, X., **Xiu, R.**, Gong, L., Sun, W., Dong, Y., Liu, W., Liu, X., Liu, C., Li, J., & Wang, Y. (2024). Unraveling the global burden of inflammatory bowel disease (1990-2019): A Joinpoint regression analysis of divergent trends in 10-24 and 50-69 age cohorts. Autoimmun Rev, 23(6), 103586. https://doi.org/10.1016/j.autrev.2024.103586 
--  **Xiu, R.**, Sun, Q., Li, B., & Wang, Y. (2023). Mapping Research Trends and Hotspots in the Link between Alzheimer’s Disease and Gut Microbes over the Past Decade: A Bibliometric Analysis. Nutrients, 15(14). 
-
+- Wang, X., **Xiu, R.**, Gong, L., Sun, W., Dong, Y., Liu, W., … **Wang, Y.** (2024). Unraveling the global burden of inflammatory bowel disease (1990–2019): A Joinpoint regression analysis of divergent trends in 10–24 and 50–69 age cohorts. *Autoimmunity Reviews*, 23(6), 103586. [https://doi.org/10.1016/j.autrev.2024.103586](https://doi.org/10.1016/j.autrev.2024.103586) (2023 JIF: 9.2; JCR Q1)
+- **Xiu, R.**, Sun, Q., Li, B., & **Wang, Y.** (2023). Mapping research trends and hotspots in the link between Alzheimer’s disease and gut microbes over the past decade: A bibliometric analysis. *Nutrients*, 15(14), 3203. [https://doi.org/10.3390/nu15143203](https://doi.org/10.3390/nu15143203) (2022 JIF: 5.9; JCR Q1)
 
