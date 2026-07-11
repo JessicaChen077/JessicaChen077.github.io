@@ -9,6 +9,7 @@ type: page
 ## Graduate Students
 - [Hui Wang](/author/hui-wang/)
 - [Yingchuan Chen](/author/yingchuan-chen/)
+- [Lijun Bai](/author/lijun-bai/)
 
 ## Undergraduates admitted in 2022
 - [Liangchun Wang](/author/liangchun-wang/)
