@@ -16,7 +16,9 @@ draft: false
 ---
 
 ## Education
-- **MBBS**, 2021 – present  
+- **MBBS**, 2021 – 2026
   *Shandong University*
+- **Master of Medicine in Neurology**, 2026 – present
+  *Beijing Tiantan Hospital, Capital Medical University*
 ## Publications
 - Liu, W., **Guo, J.**, Dong, Y., Li, J., & Wang, Y. (2025). Efficacy of probiotic supplementation in influencing cognitive function in Alzheimer’s disease: A systematic review and meta-analysis. *Journal of Food Science*, 90(7), e70037. [https://doi.org/10.1111/1750-3841.70037](https://doi.org/10.1111/1750-3841.70037) (2024 JIF: 3.4; JCR Q2)

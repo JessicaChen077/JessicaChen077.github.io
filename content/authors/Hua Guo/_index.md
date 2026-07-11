@@ -16,8 +16,10 @@ draft: false
 ---
 
 ## Education
-- **MBBS**, 2021 – present  
+- **MBBS**, 2021 – 2026
   *Shandong University*
+- **Direct PhD in Respiratory and Critical Care Medicine**, 2026 – present
+  *China-Japan Friendship Hospital*
 ## Publications
 - **Guo, H.**, Zhao, X., Han, K., & Wang, Y. (2025). Mapping the lung–brain axis: Causal relationships between brain network connectivity and respiratory disorders. *Brain Research Bulletin*, 111402. [https://doi.org/10.1016/j.brainresbull.2025.111402](https://doi.org/10.1016/j.brainresbull.2025.111402) (2024 JIF: 3.7; JCR Q2)
 - **Guo, H.**, Gao, J., Gong, L., & Wang, Y. (2025). Multi-omics analysis reveals novel causal pathways in psoriasis pathogenesis. *Journal of Translational Medicine*, 23(1), 100. [https://doi.org/10.1186/s12967-025-06099-w](https://doi.org/10.1186/s12967-025-06099-w) (2023 JIF: 6.1; JCR Q1)
