@@ -11,17 +11,6 @@ type: page
 - [Hui Wang](/author/hui-wang/)
 - [Yingchuan Chen](/author/yingchuan-chen/)
 
-## Undergraduates admitted in 2021
-- [Hua Guo](/author/hua-guo)
-- [Zhaocheng Li](/author/zhaocheng-li/)
-- [Yuxin Dong](/author/yuxin-dong/)
-- [Weitong Liu](/author/weitong-liu/)
-- [Jinghan Guo](/author/jinghan-guo/)
-- [Manyu Ma](/author/manyu-ma/)
-- [Zihui Xu](/author/zihui-xu/)
-- [Junchi Hu](/author/junchi-hu/)
-- [Yuxuan Zhang](/author/yuxuan-zhang/)
-
 ## Undergraduates admitted in 2022
 - [Liangchun Wang](/author/liangchun-wang/)
 - [Xiaohan Zhao](/author/xiaohan-zhao/)

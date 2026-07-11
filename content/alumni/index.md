@@ -12,5 +12,16 @@ type: page
 - [Menggeer Wang](/author/menggeer-wang/)
 - [Linjing Zhang](/author/linjing-zhang/)
 
+## Undergraduates admitted in 2021
+- [Hua Guo](/author/hua-guo)
+- [Zhaocheng Li](/author/zhaocheng-li/)
+- [Yuxin Dong](/author/yuxin-dong/)
+- [Weitong Liu](/author/weitong-liu/)
+- [Jinghan Guo](/author/jinghan-guo/)
+- [Manyu Ma](/author/manyu-ma/)
+- [Zihui Xu](/author/zihui-xu/)
+- [Junchi Hu](/author/junchi-hu/)
+- [Yuxuan Zhang](/author/yuxuan-zhang/)
+
 ## Master's Students
 - [Rongxia Tai](/author/rongxia-tai/)
