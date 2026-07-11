@@ -40,3 +40,4 @@ type: page
 - [Xichang Cui](/author/xichang-cui/)
 - [Peiyao Li](/author/peiyao-li/)
 - [Xintong Liu](/author/xintong-liu/)
+- [Xiaocheng Wu](/author/xiaocheng-wu/)
