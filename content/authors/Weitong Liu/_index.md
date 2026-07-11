@@ -19,5 +19,5 @@ draft: false
 - **MBBS**, 2021 – present  
   *Shandong University*
 ## Publications
-- **Liu, W.**, Guo, J., Dong, Y., Li, J., & **Wang, Y.** (2025). Efficacy of probiotic supplementation in influencing cognitive function in Alzheimer’s disease: A systematic review and meta-analysis. *Journal of Food Science*, 90(7), e70037. [https://doi.org/10.1111/1750-3841.70037](https://doi.org/10.1111/1750-3841.70037) (2024 JIF: 3.4; JCR Q2)
-- Wang, X., Xiu, R., Gong, L., Sun, W., Dong, Y., **Liu, W.**, … **Wang, Y.** (2024). Unraveling the global burden of inflammatory bowel disease (1990–2019): A Joinpoint regression analysis of divergent trends in 10–24 and 50–69 age cohorts. *Autoimmunity Reviews*, 23(6), 103586. [https://doi.org/10.1016/j.autrev.2024.103586](https://doi.org/10.1016/j.autrev.2024.103586) (2023 JIF: 9.2; JCR Q1)
+- **Liu, W.**, Guo, J., Dong, Y., Li, J., & Wang, Y. (2025). Efficacy of probiotic supplementation in influencing cognitive function in Alzheimer’s disease: A systematic review and meta-analysis. *Journal of Food Science*, 90(7), e70037. [https://doi.org/10.1111/1750-3841.70037](https://doi.org/10.1111/1750-3841.70037) (2024 JIF: 3.4; JCR Q2)
+- Wang, X., Xiu, R., Gong, L., Sun, W., Dong, Y., **Liu, W.**, … Wang, Y. (2024). Unraveling the global burden of inflammatory bowel disease (1990–2019): A Joinpoint regression analysis of divergent trends in 10–24 and 50–69 age cohorts. *Autoimmunity Reviews*, 23(6), 103586. [https://doi.org/10.1016/j.autrev.2024.103586](https://doi.org/10.1016/j.autrev.2024.103586) (2023 JIF: 9.2; JCR Q1)
