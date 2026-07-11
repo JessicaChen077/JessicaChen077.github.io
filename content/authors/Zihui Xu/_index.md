@@ -18,7 +18,7 @@ draft: false
 ## Education
 - **MBBS**, 2021 – 2026
   *Shandong University*
-- **Direct PhD in Respiratory and Critical Care Medicine**, 2026 – present
+- **PhD Candidate in Respiratory and Critical Care Medicine**, 2026 – present
   *China-Japan Friendship Hospital*
 ## Publications
 - **Xu, Z.**, Ma, M., An, R., & Wang, Y. (2025). Association between brain connectivity and renal pathophysiology: A multi-trait Mendelian randomization analysis. *Brain Structure and Function*, 230(8), 151. [https://doi.org/10.1007/s00429-025-03014-3](https://doi.org/10.1007/s00429-025-03014-3) (2024 JIF: 2.9; JCR Q1/Q3)

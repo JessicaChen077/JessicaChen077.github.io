@@ -3,6 +3,10 @@ title: Alumni
 type: page
 ---
 
+## Master's Students
+- [Jinyang Gao](/author/jinyang-gao/)
+- [Rongxia Tai](/author/rongxia-tai/)
+
 ## Undergraduates admitted in 2021
 - [Hua Guo](/author/hua-guo)
 - [Zhaocheng Li](/author/zhaocheng-li/)
@@ -22,6 +26,3 @@ type: page
 - [Tilai Zhang](/author/tilai-zhang/)
 - [Menggeer Wang](/author/menggeer-wang/)
 - [Linjing Zhang](/author/linjing-zhang/)
-
-## Master's Students
-- [Rongxia Tai](/author/rongxia-tai/)

@@ -7,7 +7,6 @@ type: page
 - [Yanqing Wang](/author/yanqing-wang/)
 
 ## Graduate Students
-- [Jinyang Gao](/author/jinyang-gao/)
 - [Hui Wang](/author/hui-wang/)
 - [Yingchuan Chen](/author/yingchuan-chen/)
 

@@ -18,7 +18,7 @@ draft: false
 ## Education
 - **MBBS**, 2021 – 2026
   *Shandong University*
-- **Direct PhD in Respiratory and Critical Care Medicine**, 2026 – present
+- **PhD Candidate in Respiratory and Critical Care Medicine**, 2026 – present
   *China-Japan Friendship Hospital*
 ## Publications
 - **Guo, H.**, Zhao, X., Han, K., & Wang, Y. (2025). Mapping the lung–brain axis: Causal relationships between brain network connectivity and respiratory disorders. *Brain Research Bulletin*, 111402. [https://doi.org/10.1016/j.brainresbull.2025.111402](https://doi.org/10.1016/j.brainresbull.2025.111402) (2024 JIF: 3.7; JCR Q2)

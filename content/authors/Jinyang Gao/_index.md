@@ -1,6 +1,6 @@
 ---
 title: "Jinyang Gao"
-user_groups: ["Graduate Students"]
+user_groups: ["Master's Students"]
 weight: 1
 avatar: "avatar.jpg"
 
@@ -16,9 +16,11 @@ draft: false
 ---
 
 ## Education
-- **Bachelor of Science**, 2018 – 2022  
+- **Bachelor of Science**, 2018 – 2022
   *Shandong First Medical University*
-- **Master of Science**, 2023 – present  
+- **Master of Science**, 2023 – 2026
+  *Shandong University*
+- **PhD in Basic Biomedical Science**, 2026 – present
   *Shandong University*
 
 ## Publications
@@ -27,7 +29,6 @@ draft: false
 - **Gao, J.**, Bi, X., Jiang, W., & Wang, Y. (2025). Integration of multi-omics quantitative trait loci evidence reveals novel susceptibility genes for Alzheimer’s disease. *Scientific Reports*, 15(1), 30158. [https://doi.org/10.1038/s41598-025-12290-2](https://doi.org/10.1038/s41598-025-12290-2) (2024 JIF: 3.9; JCR Q1)
 - Guo, H., **Gao, J.**, Gong, L., & Wang, Y. (2025). Multi-omics analysis reveals novel causal pathways in psoriasis pathogenesis. *Journal of Translational Medicine*, 23(1), 100. [https://doi.org/10.1186/s12967-025-06099-w](https://doi.org/10.1186/s12967-025-06099-w) (2023 JIF: 6.1; JCR Q1)
 - Sun, Q., **Gao, J.**, An, R., Wang, M., & Wang, Y. (2024). Probing molecular pathways: Illuminating the connection between COVID-19 and Alzheimer’s disease through the endocannabinoid system dynamics. *Journal of Medical Virology*, 96(4), e29590. [https://doi.org/10.1002/jmv.29590](https://doi.org/10.1002/jmv.29590) (2022 JIF: 12.7; JCR Q1)
-
 
 
 
