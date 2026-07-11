@@ -1,3 +1,15 @@
+### 2026
+
+1. Yuan, Z., Gao, J., Wang, L., Zhang, Y., Liu, H., Wang, H., Chen, Y., Qiu, J., Wang, S., **Wang, Y.**, & Liu, H. (2026). Endocytic hierarchical miRNA-CaCO3@PLGA nanoparticles: Intracellular co-release of calcium ions/microRNA for enhanced traumatic brain injury neural stem cell therapy. *Nano Today*, 70, 103116. [https://doi.org/10.1016/j.nantod.2026.103116](https://doi.org/10.1016/j.nantod.2026.103116)
+
+2. Ge, Z., Guo, W., Li, J., **Wang, Y.**, & Wang, K. (2026). Colorectal cancer liver metastasis-associated ferroptosis-related genes modulate lipid peroxidation in colorectal cancer cells. *Molecular Carcinogenesis*. [https://doi.org/10.1002/mc.70143](https://doi.org/10.1002/mc.70143)
+
+3. Wang, K., Han, K., & **Wang, Y.** (2026). Antigen-specific adaptive immunity in Parkinson's disease: Peripheral priming, brain-border reactivation and parenchymal injury. *Journal of Neuroinflammation*. [https://doi.org/10.1186/s12974-026-03918-9](https://doi.org/10.1186/s12974-026-03918-9)
+
+4. Shang, H., Wang, H., Xu, Y., Geng, L., & **Wang, Y.** (2026). circMAN1A2 as an isoform-resolved circular RNA hub in cancer. *Cancer Science*. [https://doi.org/10.1111/cas.70445](https://doi.org/10.1111/cas.70445)
+
+5. Wang, L., Li, F., Wang, J., Wang, H., Gong, L., & **Wang, Y.** (2026). Cross-trait mapping of shared susceptibility across inflammatory bowel disease and spondyloarthropathies. *Journal of Translational Medicine*. [https://doi.org/10.1186/s12967-026-08326-4](https://doi.org/10.1186/s12967-026-08326-4)
+
 ### 2025
 
 1. Guo, L., Zhang, J., An, R., Wang, W., Fen, J., Wu, Y., & **Wang, Y.** (2025). The role of estimated glucose disposal rate in predicting cardiovascular risk among general and diabetes mellitus population: A systematic review and meta-analysis. *BMC Medicine*, 23(1), 234. [https://doi.org/10.1186/s12916-025-04064-4](https://doi.org/10.1186/s12916-025-04064-4)
